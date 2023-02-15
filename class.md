@@ -2,4 +2,4 @@ Sadji
 
 Algeria
 
-Met mobile-dev certification
+Meta mobile-dev certification
